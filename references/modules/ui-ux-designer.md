@@ -1,5 +1,4 @@
-## Source: references/skills/ui-ux-designer/SKILL.md
-
+## Module: Ui Ux Designer
 ---
 name: ui-ux-designer
 description: Core UI/UX and product design across layout, interaction, visual systems, and polished interfaces.
@@ -1454,8 +1453,7 @@ To handle cases where none of the existing themes work for an artifact, create a
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/ui-ux-designer/references/legacy/spatial-motion-design-expert/SKILL.md
-
+## Imported Module: Spatial Motion Design Expert
 --- 
 name: spatial-motion-design-expert
 description: Core UI/UX engineering skill for building highly interactive, spatial, weightless, and glassmorphism-based web interfaces using GSAP and 3D CSS.
@@ -1499,8 +1497,7 @@ When asked to build or generate UI components, default to the following stack un
 - Ensure all animations are disabled for users with `prefers-reduced-motion: reduce`.
 - Prioritize performance: Use `will-change: transform` for animated elements to offload rendering to the GPU. Do not animate expensive properties like `box-shadow` or `filter` continuously.
 
-## Source: references/skills/ui-ux-designer/references/legacy/canvas-design/SKILL.md
-
+## Imported Module: Canvas Design
 ---
 name: canvas-design
 description: "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create ..."
@@ -1637,8 +1634,7 @@ To create additional pages when requested, create more creative pages along the 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/ui-ux-designer/references/legacy/design-orchestration/SKILL.md
-
+## Imported Module: Design Orchestration
 ---
 name: design-orchestration
 description: Orchestrates design workflows by routing work through brainstorming, multi-agent review, and execution readiness in the correct order.
@@ -1809,8 +1805,7 @@ This meta-skill exists to enforce the former.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/ui-ux-designer/references/legacy/design-spells/SKILL.md
-
+## Imported Module: Design Spells
 --- 
 name: design-spells
 description: Curated micro-interactions and design details that add "magic" and personality to websites and apps.
@@ -1849,8 +1844,7 @@ Trigger this skill when:
 - **Delight, Don't Distract**: The detail must be additive to the experience, not a usability barrier. It should feel expensive and highly crafted.
 - **Quality Execution**: A broken or janky "spell" is worse than none. Ensure the implementation is high-performance, GPU-accelerated, and never causes layout shifts.
 
-## Source: references/skills/ui-ux-designer/references/legacy/interactive-portfolio/SKILL.md
-
+## Imported Module: Interactive Portfolio
 ---
 name: interactive-portfolio
 description: "Expert in building portfolios that actually land jobs and clients - not just showing work, but creating memorable experiences. Covers developer portfolios, designer portfolios, creative portfolios,..."
@@ -2080,8 +2074,7 @@ Works well with: `scroll-experience`, `3d-web-experience`, `landing-page-design`
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/ui-ux-designer/references/legacy/product-design/SKILL.md
-
+## Imported Module: Product Design
 ---
 name: product-design
 description: Design de produto nivel Apple — sistemas visuais, UX flows, acessibilidade, linguagem visual proprietaria, design tokens, prototipagem e handoff. Cobre Figma, design systems, tipografia, cor,...
@@ -2441,8 +2434,7 @@ Sexta:   Testar — 5 usuarios, insights, iterar
 - `monetization` - Complementary skill for enhanced analysis
 - `product-inventor` - Complementary skill for enhanced analysis
 
-## Source: references/skills/ui-ux-designer/references/legacy/scroll-experience/SKILL.md
-
+## Imported Module: Scroll Experience
 ---
 name: scroll-experience
 description: "Expert in building immersive scroll-driven experiences - parallax storytelling, scroll animations, interactive narratives, and cinematic web experiences. Like NY Times interactives, Apple product p..."
@@ -2712,8 +2704,7 @@ Works well with: `3d-web-experience`, `frontend`, `ui-design`, `landing-page-des
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/ui-ux-designer/references/legacy/theme-factory/SKILL.md
-
+## Imported Module: Theme Factory
 ---
 name: theme-factory
 description: "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifac..."

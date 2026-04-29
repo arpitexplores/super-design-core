@@ -52,7 +52,7 @@ Use $super-design-core to help with this request.
 | `magic-ui-generator.md` | Rapid UI generation, layout exploration, and implementation-ready design prompts |
 | `react-ui-patterns.md` | React and framework UI patterns, component structure, and implementation guidance |
 | `ui-ux-designer.md` | UX strategy, flows, information architecture, and interaction design |
-| `ui-ux-pro-max.md` | Visual systems, styles, palettes, typography, components, and design intelligence |
+| `design-systems.md` | Visual systems, styles, palettes, typography, components, and design intelligence |
 
 ## Example Prompts
 

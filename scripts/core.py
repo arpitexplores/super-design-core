@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-UI/UX Pro Max Core - BM25 search engine for UI/UX style guides
+Super Design Core - BM25 search engine for UI/UX style guides
 """
 
 import csv
@@ -11,7 +11,7 @@ from math import log
 from collections import defaultdict
 
 # ============ CONFIGURATION ============
-DATA_DIR = Path(__file__).parent.parent / "data"
+DATA_DIR = Path(__file__).parent
 MAX_RESULTS = 3
 
 CSV_CONFIG = {
@@ -68,19 +68,19 @@ CSV_CONFIG = {
 }
 
 STACK_CONFIG = {
-    "html-tailwind": {"file": "stacks/html-tailwind.csv"},
-    "react": {"file": "stacks/react.csv"},
-    "nextjs": {"file": "stacks/nextjs.csv"},
-    "astro": {"file": "stacks/astro.csv"},
-    "vue": {"file": "stacks/vue.csv"},
-    "nuxtjs": {"file": "stacks/nuxtjs.csv"},
-    "nuxt-ui": {"file": "stacks/nuxt-ui.csv"},
-    "svelte": {"file": "stacks/svelte.csv"},
-    "swiftui": {"file": "stacks/swiftui.csv"},
-    "react-native": {"file": "stacks/react-native.csv"},
-    "flutter": {"file": "stacks/flutter.csv"},
-    "shadcn": {"file": "stacks/shadcn.csv"},
-    "jetpack-compose": {"file": "stacks/jetpack-compose.csv"}
+    "html-tailwind": {"file": "html-tailwind.csv"},
+    "react": {"file": "react.csv"},
+    "nextjs": {"file": "nextjs.csv"},
+    "astro": {"file": "astro.csv"},
+    "vue": {"file": "vue.csv"},
+    "nuxtjs": {"file": "nuxtjs.csv"},
+    "nuxt-ui": {"file": "nuxt-ui.csv"},
+    "svelte": {"file": "svelte.csv"},
+    "swiftui": {"file": "swiftui.csv"},
+    "react-native": {"file": "react-native.csv"},
+    "flutter": {"file": "flutter.csv"},
+    "shadcn": {"file": "shadcn.csv"},
+    "jetpack-compose": {"file": "jetpack-compose.csv"}
 }
 
 # Common columns for all stacks

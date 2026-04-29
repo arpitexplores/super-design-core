@@ -1,5 +1,4 @@
-## Source: references/skills/react-ui-patterns/SKILL.md
-
+## Module: React Ui Patterns
 ---
 name: react-ui-patterns
 description: UI patterns for React and other platforms including Angular, mobile, and native UI frameworks.
@@ -2317,8 +2316,7 @@ export function PageTransition({ children }: PageTransitionProps) {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/react-ui-patterns/references/legacy/angular-ui-patterns/SKILL.md
-
+## Imported Module: Angular Ui Patterns
 ---
 name: angular-ui-patterns
 description: "Modern Angular UI patterns for loading states, error handling, and data display. Use when building UI components, handling async data, or managing component states."
@@ -2832,8 +2830,7 @@ Before completing any UI component:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/react-ui-patterns/references/legacy/building-native-ui/SKILL.md
-
+## Imported Module: Building Native Ui
 ---
 name: building-native-ui
 description: Complete guide for building beautiful apps with Expo Router. Covers fundamentals, styling, components, navigation, animations, patterns, and native tabs.
@@ -3156,8 +3153,7 @@ export default function Layout({ segment }) {
 }
 ```
 
-## Source: references/skills/react-ui-patterns/references/legacy/expo-ui-jetpack-compose/SKILL.md
-
+## Imported Module: Expo Ui Jetpack Compose
 ---
 name: expo-ui-jetpack-compose
 description: expo-ui-jetpack-compose
@@ -3203,8 +3199,7 @@ import { fillMaxWidth, paddingAll } from "@expo/ui/jetpack-compose/modifiers";
 - **LazyColumn** — Use instead of react-native `ScrollView`/`FlatList` for scrollable lists. Wrap in `<Host style={{ flex: 1 }}>`.
 - **Icon** — Use `<Icon source={require('./icon.xml')} size={24} />` with Android XML vector drawables from [Material Symbols](https://fonts.google.com/icons).
 
-## Source: references/skills/react-ui-patterns/references/legacy/expo-ui-swift-ui/SKILL.md
-
+## Imported Module: Expo Ui Swift Ui
 ---
 name: expo-ui-swift-ui
 description: expo-ui-swift-ui
@@ -3250,8 +3245,7 @@ import { Pressable } from "react-native";
 
 - If a required modifier or View is missing in Expo UI, it can be extended via a local Expo module. See: https://docs.expo.dev/guides/expo-ui-swift-ui/extending/index.md. Confirm with the user before extending.
 
-## Source: references/skills/react-ui-patterns/references/legacy/frontend-ui-dark-ts/SKILL.md
-
+## Imported Module: Frontend Ui Dark Ts
 ---
 name: frontend-ui-dark-ts
 description: "Build dark-themed React applications using Tailwind CSS with custom theming, glassmorphism effects, and Framer Motion animations. Use when creating dashboards, admin panels, or data-rich interfaces..."
@@ -3847,8 +3841,7 @@ export function PageTransition({ children }: PageTransitionProps) {
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/react-ui-patterns/references/legacy/mobile-design/SKILL.md
-
+## Imported Module: Mobile Design
 ---
 name: mobile-design
 description: "Mobile-first design and engineering doctrine for iOS and Android apps. Covers touch interaction, performance, platform conventions, offline behavior, and mobile-specific decision-making. Teaches pr..."
@@ -4139,8 +4132,7 @@ No debate without justification.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/react-ui-patterns/references/legacy/swiftui-expert-skill/SKILL.md
-
+## Imported Module: Swiftui Expert Skill
 ---
 name: swiftui-expert-skill
 description: Write, review, or improve SwiftUI code following best practices for state management, view composition, performance, and iOS 26+ Liquid Glass adoption. Use when building new SwiftUI features, refactoring existing views, reviewing code quality, or adopting modern SwiftUI patterns.

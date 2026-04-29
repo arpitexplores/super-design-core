@@ -1,5 +1,4 @@
-## Source: references/skills/magic-ui-generator/SKILL.md
-
+## Module: Magic Ui Generator
 ---
 name: magic-ui-generator
 description: UI tooling and generators: icons, artifacts, slides, Stitch prompts, and layout tooling.
@@ -913,8 +912,7 @@ Refer to the local files for detailed documentation:
 3. Unlike CSS flexbox, there's no flex-grow/shrink - use Fill/Fit
 4. Alignment applies to children, not the element itself
 
-## Source: references/skills/magic-ui-generator/references/legacy/frontend-slides/SKILL.md
-
+## Imported Module: Frontend Slides
 ---
 name: frontend-slides
 description: Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files. Use when the user wants to build a presentation, convert a PPT/PPTX to web, or create slides for a talk/pitch. Helps non-designers discover their aesthetic through visual...
@@ -1135,8 +1133,7 @@ When converting PowerPoint files:
 | animation-patterns.md | CSS/JS animation snippets and effect-to-feeling guide | Phase 3 (generation) |
 | scripts/extract-pptx.py | Python script for PPT content extraction | Phase 4 (conversion) |
 
-## Source: references/skills/magic-ui-generator/references/legacy/iconsax-library/SKILL.md
-
+## Imported Module: Iconsax Library
 --- 
 name: iconsax-library
 description: Extensive icon library and AI-driven icon generation skill for premium UI/UX design.
@@ -1177,8 +1174,7 @@ Trigger this skill when:
 - **Strict Consistency**: Stick to ONE style (e.g., only "Two-tone") throughout a single project to maintain high-end polish.
 - **Sizing & Alignment**: Follow strict, standard grid sizes (24x24) to ensure absolute crispness on high-DPI displays.
 
-## Source: references/skills/magic-ui-generator/references/legacy/makepad-layout/SKILL.md
-
+## Imported Module: Makepad Layout
 ---
 name: makepad-layout
 description: |
@@ -1356,8 +1352,7 @@ Refer to the local files for detailed documentation:
 3. Unlike CSS flexbox, there's no flex-grow/shrink - use Fill/Fit
 4. Alignment applies to children, not the element itself
 
-## Source: references/skills/magic-ui-generator/references/legacy/stitch-ui-design/SKILL.md
-
+## Imported Module: Stitch Ui Design
 ---
 name: stitch-ui-design
 description: "Expert guide for creating effective prompts for Google Stitch AI UI design tool. Use when user wants to design UI/UX in Stitch, create app interfaces, generate mobile/web designs, or needs help cra..."
@@ -1741,8 +1736,7 @@ Effective Stitch prompts are specific, context-rich, and visually descriptive. B
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/magic-ui-generator/references/legacy/web-artifacts-builder/SKILL.md
-
+## Imported Module: Web Artifacts Builder
 ---
 name: web-artifacts-builder
 description: "Suite of tools for creating elaborate, multi-component browser-based AI assistant HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state ma..."

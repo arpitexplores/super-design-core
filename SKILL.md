@@ -24,7 +24,7 @@ Create end-to-end UI/UX direction, visual systems, and implementable UI guidance
 - **UI Generation** -> `references/modules/magic-ui-generator.md`
 - **UI Patterns (React & Frameworks)** -> `references/modules/react-ui-patterns.md`
 - **UX Design** -> `references/modules/ui-ux-designer.md`
-- **UI/UX Systems** -> `references/modules/ui-ux-pro-max.md`
+- **UI/UX Systems** -> `references/modules/design-systems.md`
 
 ## Default Flow
 1. Confirm product context, audience, and platform.
@@ -46,12 +46,11 @@ Ask only what is missing:
 
 ## Bundled References
 - `references/modules/`
-- `references/toolkit/`
 - `scripts/`
 - `assets/`
 
 ## Compatibility Notes
-- If any module references slash commands or tool-specific legacy paths, translate them into plain-language steps.
+- If any module references slash commands or tool-specific paths, translate them into plain-language steps.
 - Keep outputs platform-agnostic unless the user specifies a specific tool, stack, or agent.
 
 ## Guardrails
