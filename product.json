@@ -1,0 +1,26 @@
+{
+  "name": "super-design-core",
+  "title": "Super Design Core",
+  "description": "Core UI/UX and product design: IA, flows, visual systems, UI patterns, and generators. Use for end-to-end design work.",
+  "version": "0.1.0",
+  "source_catalogue": "skills-super",
+  "skill_entrypoint": "SKILL.md",
+  "modules": [
+    {
+      "name": "UI Generation",
+      "path": "references/modules/magic-ui-generator.md"
+    },
+    {
+      "name": "UI Patterns (React & Frameworks)",
+      "path": "references/modules/react-ui-patterns.md"
+    },
+    {
+      "name": "UX Design",
+      "path": "references/modules/ui-ux-designer.md"
+    },
+    {
+      "name": "UI/UX Systems",
+      "path": "references/modules/ui-ux-pro-max.md"
+    }
+  ]
+}

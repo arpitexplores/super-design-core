@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super Design Core"
+  short_description: "UI/UX design systems and patterns"
+  default_prompt: "Use $super-design-core to help with this request."
