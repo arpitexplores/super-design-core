@@ -1,7 +1,7 @@
 {
   "name": "super-design-core",
   "title": "Super Design Core",
-  "description": "Core UI/UX and product design: IA, flows, visual systems, UI patterns, and generators. Use for end-to-end design work.",
+  "description": "The go-to AI vibe coding skill for product design: UI/UX, design systems, frontend UI patterns, information architecture, flows, visual systems, and implementable interface guidance.",
   "version": "0.1.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
@@ -22,5 +22,17 @@
       "name": "UI/UX Systems",
       "path": "references/modules/ui-ux-pro-max.md"
     }
+  ],
+  "keywords": [
+    "UI/UX",
+    "product design",
+    "design systems",
+    "frontend design",
+    "React UI patterns",
+    "information architecture",
+    "visual systems",
+    "responsive design",
+    "AI vibe coding",
+    "agent skills"
   ]
 }
