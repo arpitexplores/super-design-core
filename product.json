@@ -2,7 +2,7 @@
   "name": "super-design-core",
   "title": "Super Design Core",
   "description": "The go-to AI vibe coding skill for product design: UI/UX, design systems, frontend UI patterns, information architecture, flows, visual systems, and implementable interface guidance.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
   "modules": [
